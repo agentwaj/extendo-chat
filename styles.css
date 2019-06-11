@@ -1,8 +1,19 @@
+/* message preview container */
 ._1ht1 {
-	height: 110px !important;
+	display: block !important;
+	height: auto !important;
+	padding-top: 12px;
+	padding-bottom: 12px;
 }
 
+/* preview image */
+._1qt3 {
+	align-items: normal !important;
+}
+
+/* preview text */
 ._1htf {
-	height: 80px !important;
-	white-space: normal !important;
+	height: auto !important;
+	overflow: visible !important;
+	white-space: pre-line !important;
 }
