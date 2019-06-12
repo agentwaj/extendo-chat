@@ -2,8 +2,11 @@
 ._1ht1 {
 	display: block !important;
 	height: auto !important;
-	padding-top: 12px;
-	padding-bottom: 12px;
+}
+
+/* message clickable area */
+._2il3 {
+	padding: 12px 0px 12px 12px;
 }
 
 /* preview image */
