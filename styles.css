@@ -1,22 +1,11 @@
-/* message preview container */
-._1ht1 {
-	display: block !important;
-	height: auto !important;
-}
-
-/* message clickable area */
-._2il3 {
-	padding: 12px 0px 12px 12px;
-}
-
-/* preview image */
-._1qt3 {
-	align-items: normal !important;
-}
-
 /* preview text */
-._1htf {
-	height: auto !important;
-	overflow: visible !important;
-	white-space: pre-line !important;
+.ltmttdrg {
+  height: auto !important;
+  overflow: visible !important;
+  white-space: pre-line !important;
+}
+
+/* timestamp */
+.g0qnabr5:not(.ltmttdrg) {
+  white-space: nowrap !important;
 }
