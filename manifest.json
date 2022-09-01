@@ -1,16 +1,12 @@
 {
-	"manifest_version": 2,
-	"name": "Extendo Chat",
-	"description": "Remove trim from Messenger message preview.",
-	"version": "1.1.0",
-	"content_scripts": [
-		{
-			"matches": [
-				"https://www.messenger.com/*"
-			],
-			"css": [
-				"styles.css"
-			]
-		}
-	]
+  "manifest_version": 3,
+  "name": "Extendo Chat",
+  "description": "Remove trim from Messenger message preview.",
+  "version": "1.2.0",
+  "content_scripts": [
+    {
+      "matches": ["https://www.messenger.com/*"],
+      "css": ["styles.css"]
+    }
+  ]
 }
