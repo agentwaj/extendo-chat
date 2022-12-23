@@ -1,5 +1,3 @@
-.b6ax4al1 {
-  height: auto !important;
-  overflow: visible !important;
-  white-space: pre-line !important;
+div[role=gridcell] span {
+    white-space: normal !important;
 }
