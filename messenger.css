@@ -1,3 +1,7 @@
 div[role="gridcell"] span {
   white-space: normal;
 }
+
+div[style*="height"] + div > span:last-of-type {
+  min-width: 32px;
+}
