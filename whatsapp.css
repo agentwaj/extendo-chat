@@ -1,0 +1,24 @@
+div[role="listitem"] > div > div > div {
+  height: auto !important;
+}
+
+div[role="listitem"] > div > div {
+  height: auto !important;
+}
+
+div[role="grid"] {
+  height: auto !important;
+  overflow: visible !important;
+  display: block !important;
+}
+
+div[role="listitem"] {
+  height: auto !important;
+  transform: unset !important;
+  position: static !important;
+  min-height: 72px !important;
+}
+
+span[dir] {
+  white-space: normal;
+}

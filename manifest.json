@@ -11,6 +11,10 @@
     {
       "matches": ["https://www.instagram.com/*"],
       "css": ["instagram.css"]
+    },
+    {
+      "matches": ["https://web.whatsapp.com/*"],
+      "css": ["whatsapp.css"]
     }
   ]
 }
