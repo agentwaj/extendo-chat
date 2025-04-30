@@ -7,6 +7,10 @@
     {
       "matches": ["https://www.messenger.com/*"],
       "css": ["messenger.css"]
+    },
+    {
+      "matches": ["https://www.instagram.com/*"],
+      "css": ["instagram.css"]
     }
   ]
 }
