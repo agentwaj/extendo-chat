@@ -6,7 +6,7 @@
   "content_scripts": [
     {
       "matches": ["https://www.messenger.com/*"],
-      "css": ["styles.css"]
+      "css": ["messenger.css"]
     }
   ]
 }
