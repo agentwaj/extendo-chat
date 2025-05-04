@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Extendo Chat",
   "description": "Show full Messenger and Instagram DMs in the sidebar.",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "content_scripts": [
     {
       "matches": ["https://www.messenger.com/*"],
