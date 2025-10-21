@@ -9,7 +9,7 @@
       "css": ["messenger.css"]
     },
     {
-      "matches": ["https://www.instagram.com/*"],
+      "matches": ["https://www.instagram.com/direct/*"],
       "css": ["instagram.css"]
     }
   ]

@@ -1,15 +1,7 @@
-div[role="none"]  /* DM wrapper */
-> div             /* another DM wrapper */
-> div             /* avatar */
-+ div             /* text wrapper */
-> div             /* another text wrapper */
-> div             /* name */
-+ div             /* spacer */
-+ div             /* message wrapper */
-> div             /* another message wrapper  */ {
+div[style*="height:"] + div > div {
   height: auto;
 }
 
-div[role="none"] span {
+div[style*="height:"] + div span {
   white-space: normal;
 }
